@@ -11,7 +11,7 @@ A python based tool which is used for generating a strong passwords for accounts
     ./setup
     ./generator.py
 ## How to download and run in one step
-    git clone https://github.com/root-david/password-generator.git ; cd password-generator; chmod +x generator.py; chmod +x setup; ./setup; ./generator
+    git clone https://github.com/root-david/password-generator.git ; cd password-generator; chmod +x generator.py; chmod +x setup; ./setup; ./generator.py
 # How to use:-
 When you start it by ./generator.py, it will ask you about Password Length,
 ### Note:-
