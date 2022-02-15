@@ -19,7 +19,7 @@ When you start it by ./generator.py, it will ask you about Password Length,
 
 Here you have to type how much did you want to have your password length, your password's length must be greater than 9 and less than 100.
 ### Note:-
-> Here you must be give 1 or greater than.
+> Here you must be give 1 or greater than 1.
 
 When you fill it, it will ask that, "how much password dis you want" it's mean that, how much passwords you want to print or show on screen, if you type 1, it will print 1 password; but if you type 5 you will see 5 passwords on your screen, if you like one of them you will set it as your account password. Note:- Here you must be give 1 or greater than.
 # Disclamer:-
