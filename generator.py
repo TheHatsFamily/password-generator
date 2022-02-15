@@ -1,9 +1,7 @@
 #!/usr/bin/python3
-
 import random
 
 passwds = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','1','2','3','4','5','6','7','8','9','0',',','.','@','#','_','&','-','+','(',')','/','*','"',"'",':',';','!','?','~','`','|','÷','$','=','{','}','\\','%','[',']','<','>','A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
-
 red = '\033[1;31m'
 green = '\033[1;32m'
 yellow = '\033[1;33m'
@@ -24,7 +22,7 @@ while True:
 		while True:
 			try:
 				passTimes = int(input(f'{blue}How Much Passwords Do You Want: {green}'))
-				if passLength > 0:
+				if passTimes > 0:
 					pass
 				else:
 					print(f'{red}Minimum Value Is 1')
